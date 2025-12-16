@@ -136,7 +136,7 @@ a {
     }
 }
 
-/* Laptops */
+
 @media (max-width: 1199px) {
     .main_box {
         min-height: 100vh;
@@ -144,7 +144,7 @@ a {
     }
 }
 
-/* Tablets */
+
 @media (max-width: 992px) {
     .main_box {
         min-height: 100vh;
